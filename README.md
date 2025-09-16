@@ -13,7 +13,7 @@ This repository provides both the **theoretical explanation** and the **practica
 - **3 - Performance Metrics.pdf**  
   Explanation of the statistical metrics used to evaluate forecast accuracy.
 
-- **Holt-winters - Thesis.R**  
+- **Holt-winters.R**  
   R script implementing the Holt-Winters forecasting method, including model fitting, forecasting, and evaluation.
 
 - **AAPL_prices.csv**  
